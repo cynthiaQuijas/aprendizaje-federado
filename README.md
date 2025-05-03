@@ -8,4 +8,4 @@ Esta actividad consistió en realizar un aprendizaje federado en donde se dividi
 3. Mandar el X y Y train de cada quién y los sets de test a cada integrante del equipo por correo.
 4. Generar el modelo que se encuentra en el archivo `TheModel.py` (todos vamos a utilizar esta misma arquitectura)
 5. Cada miembro del equipo ejecutó el notebook que se encuentra en el folder `CODE` (subiendo su respectivo dataset de train y test y el modelo) y guarda el modelo en formato .keras, el modelo de cada integrante se encuentra en el folder `LOCAL_MODELS`.
-6. Juntar todos los modelos con el notebook `modelo_fed.ipynb`
+6. Juntar todos los modelos con el notebook `modelo_fed.ipynb`, utilizando los mismos datasets de test.
